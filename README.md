@@ -11,7 +11,7 @@ HP LaserJet P3015 printers running firmware up to and including version **07.250
 | **Vendor** | Hewlett-Packard (HP) |
 | **Product** | HP LaserJet P3015 |
 | **Affected Versions** | All firmware versions up to and including **07.250.2** (January 2017) |
-| **Protocol** | PJL (Printer Job Language) — TCP port 9100 |
+| **Protocol** | PJL (Printer Job Language) - TCP port 9100 |
 | **Authentication Required** | None |
 | **Attack Vector** | Local Network / Remote Network |
 
