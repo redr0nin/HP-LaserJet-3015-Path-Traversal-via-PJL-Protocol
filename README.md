@@ -1,5 +1,5 @@
 # HP LaserJet P3015 - Path Traversal via PJL Protocol
-
+This product is End of Life/End of Support and this vulnerability **will not be patched**.
 ## Summary
 
 HP LaserJet P3015 printers running firmware up to and including version **07.250.2** are vulnerable to path traversal attacks via the PJL (Printer Job Language) protocol on port 9100. This vulnerability allows unauthenticated remote attackers to **read and write arbitrary files** on the printer filesystem, as well as download files to a local machine.
